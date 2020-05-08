@@ -233,6 +233,10 @@ final18 = final18.reindex(columns=['Country', 'Region', 'gdpCap18', 'Air Quality
 final16.columns = ['Country', 'Region', 'GDP per Capita', 'Air Quality', 'Biodiversity', 'CO2 per Capita', 'Water Sanitation', 'Water Resource', 'Happiness Score']
 final18.columns = ['Country', 'Region', 'GDP per Capita', 'Air Quality', 'Biodiversity', 'CO2 per Capita', 'Water Sanitation', 'Water Resource', 'Happiness Score']
 
+# Too many 0 values in the Water Resource column so needs to be deleted
+final16 = final16.drop(['Water Resource'], axis=1)
+final18 = final18.drop(['Water Resource'], axis=1)
+
 # Check for nulls
 print(final16.isnull().sum(axis = 0))
 print(final18.isnull().sum(axis = 0))
