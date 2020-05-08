@@ -1,0 +1,158 @@
+,Country,Region,Happiness Score
+0,Denmark,Western Europe,7.526
+1,Switzerland,Western Europe,7.5089999999999995
+2,Iceland,Western Europe,7.501
+3,Norway,Western Europe,7.497999999999999
+4,Finland,Western Europe,7.412999999999999
+5,Canada,North America,7.404
+6,Netherlands,Western Europe,7.3389999999999995
+7,New Zealand,Australia and New Zealand,7.334
+8,Australia,Australia and New Zealand,7.313
+9,Sweden,Western Europe,7.291
+10,Israel,Middle East and Northern Africa,7.267
+11,Austria,Western Europe,7.119
+12,United States,North America,7.104
+13,Costa Rica,Latin America and Caribbean,7.087000000000001
+14,Puerto Rico,Latin America and Caribbean,7.039
+15,Germany,Western Europe,6.994
+16,Brazil,Latin America and Caribbean,6.952000000000001
+17,Belgium,Western Europe,6.928999999999999
+18,Ireland,Western Europe,6.907
+19,Luxembourg,Western Europe,6.871
+20,Mexico,Latin America and Caribbean,6.778
+21,Singapore,Southeastern Asia,6.739
+22,United Kingdom,Western Europe,6.725
+23,Chile,Latin America and Caribbean,6.705
+24,Panama,Latin America and Caribbean,6.7010000000000005
+25,Argentina,Latin America and Caribbean,6.65
+26,Czech Republic,Central and Eastern Europe,6.596
+27,United Arab Emirates,Middle East and Northern Africa,6.5729999999999995
+28,Uruguay,Latin America and Caribbean,6.545
+29,Malta,Western Europe,6.4879999999999995
+30,Colombia,Latin America and Caribbean,6.481
+31,France,Western Europe,6.478
+32,Thailand,Southeastern Asia,6.474
+33,Saudi Arabia,Middle East and Northern Africa,6.379
+34,Taiwan,Eastern Asia,6.379
+35,Qatar,Middle East and Northern Africa,6.375
+36,Spain,Western Europe,6.361000000000001
+37,Algeria,Middle East and Northern Africa,6.355
+38,Guatemala,Latin America and Caribbean,6.324
+39,Suriname,Latin America and Caribbean,6.269
+40,Kuwait,Middle East and Northern Africa,6.239
+41,Bahrain,Middle East and Northern Africa,6.218
+42,Trinidad and Tobago,Latin America and Caribbean,6.167999999999999
+43,Venezuela,Latin America and Caribbean,6.084
+44,Slovakia,Central and Eastern Europe,6.077999999999999
+45,El Salvador,Latin America and Caribbean,6.068
+46,Malaysia,Southeastern Asia,6.005
+47,Nicaragua,Latin America and Caribbean,5.992000000000001
+48,Uzbekistan,Central and Eastern Europe,5.987
+49,Italy,Western Europe,5.977
+50,Ecuador,Latin America and Caribbean,5.976
+51,Belize,Latin America and Caribbean,5.956
+52,Japan,Eastern Asia,5.921
+53,Kazakhstan,Central and Eastern Europe,5.919
+54,Moldova,Central and Eastern Europe,5.897
+55,Russia,Central and Eastern Europe,5.856
+56,Poland,Central and Eastern Europe,5.835
+57,South Korea,Eastern Asia,5.835
+58,Bolivia,Latin America and Caribbean,5.822
+59,Lithuania,Central and Eastern Europe,5.813
+60,Belarus,Central and Eastern Europe,5.8020000000000005
+61,Cyprus,Western Europe,5.771
+62,Slovenia,Central and Eastern Europe,5.768
+63,Peru,Latin America and Caribbean,5.742999999999999
+64,Turkmenistan,Central and Eastern Europe,5.6579999999999995
+65,Mauritius,Sub-Saharan Africa,5.648
+66,Libya,Middle East and Northern Africa,5.615
+67,Latvia,Central and Eastern Europe,5.56
+68,Cyprus,Western Europe,5.546
+69,Paraguay,Latin America and Caribbean,5.537999999999999
+70,Romania,Central and Eastern Europe,5.528
+71,Estonia,Central and Eastern Europe,5.517
+72,Jamaica,Latin America and Caribbean,5.51
+73,Croatia,Central and Eastern Europe,5.4879999999999995
+74,Hong Kong,Eastern Asia,5.457999999999999
+75,Somalia,Sub-Saharan Africa,5.44
+76,Kosovo,Central and Eastern Europe,5.401
+77,Turkey,Middle East and Northern Africa,5.388999999999999
+78,Indonesia,Southeastern Asia,5.314
+79,Jordan,Middle East and Northern Africa,5.303
+80,Azerbaijan,Central and Eastern Europe,5.291
+81,Philippines,Southeastern Asia,5.279
+82,China,Eastern Asia,5.245
+83,Bhutan,Southern Asia,5.196000000000001
+84,Kyrgyzstan,Central and Eastern Europe,5.185
+85,Serbia,Central and Eastern Europe,5.1770000000000005
+86,Bosnia and Herzegovina,Central and Eastern Europe,5.162999999999999
+87,Montenegro,Central and Eastern Europe,5.1610000000000005
+88,Dominican Republic,Latin America and Caribbean,5.155
+89,Morocco,Middle East and Northern Africa,5.151
+90,Hungary,Central and Eastern Europe,5.145
+91,Pakistan,Southern Asia,5.132000000000001
+92,Lebanon,Middle East and Northern Africa,5.129
+93,Portugal,Western Europe,5.122999999999999
+94,Macedonia,Central and Eastern Europe,5.121
+95,Vietnam,Southeastern Asia,5.061
+96,Somaliland Region,Sub-Saharan Africa,5.0569999999999995
+97,Tunisia,Middle East and Northern Africa,5.045
+98,Greece,Western Europe,5.033
+99,Tajikistan,Central and Eastern Europe,4.996
+100,Mongolia,Eastern Asia,4.907
+101,Laos,Southeastern Asia,4.876
+102,Nigeria,Sub-Saharan Africa,4.875
+103,Honduras,Latin America and Caribbean,4.871
+104,Iran,Middle East and Northern Africa,4.813
+105,Zambia,Sub-Saharan Africa,4.795
+106,Nepal,Southern Asia,4.793
+107,Palestinian Territories,Middle East and Northern Africa,4.754
+108,Albania,Central and Eastern Europe,4.655
+109,Bangladesh,Southern Asia,4.643
+110,Sierra Leone,Sub-Saharan Africa,4.635
+111,Iraq,Middle East and Northern Africa,4.575
+112,Namibia,Sub-Saharan Africa,4.574
+113,Cameroon,Sub-Saharan Africa,4.513
+114,Ethiopia,Sub-Saharan Africa,4.508
+115,South Africa,Sub-Saharan Africa,4.459
+116,Sri Lanka,Southern Asia,4.415
+117,India,Southern Asia,4.404
+118,Myanmar,Southeastern Asia,4.395
+119,Egypt,Middle East and Northern Africa,4.362
+120,Armenia,Central and Eastern Europe,4.36
+121,Kenya,Sub-Saharan Africa,4.356
+122,Ukraine,Central and Eastern Europe,4.324
+123,Ghana,Sub-Saharan Africa,4.276
+124,Congo (Kinshasa),Sub-Saharan Africa,4.272
+125,Georgia,Central and Eastern Europe,4.252
+126,Congo (Brazzaville),Sub-Saharan Africa,4.236000000000001
+127,Senegal,Sub-Saharan Africa,4.218999999999999
+128,Bulgaria,Central and Eastern Europe,4.217
+129,Mauritania,Sub-Saharan Africa,4.2010000000000005
+130,Zimbabwe,Sub-Saharan Africa,4.1930000000000005
+131,Malawi,Sub-Saharan Africa,4.156000000000001
+132,Sudan,Sub-Saharan Africa,4.138999999999999
+133,Gabon,Sub-Saharan Africa,4.121
+134,Mali,Sub-Saharan Africa,4.073
+135,Haiti,Latin America and Caribbean,4.0280000000000005
+136,Botswana,Sub-Saharan Africa,3.9739999999999998
+137,Comoros,Sub-Saharan Africa,3.9560000000000004
+138,Ivory Coast,Sub-Saharan Africa,3.9160000000000004
+139,Cambodia,Southeastern Asia,3.907
+140,Angola,Sub-Saharan Africa,3.866
+141,Niger,Sub-Saharan Africa,3.8560000000000003
+142,South Sudan,Sub-Saharan Africa,3.832
+143,Chad,Sub-Saharan Africa,3.763
+144,Burkina Faso,Sub-Saharan Africa,3.739
+145,Uganda,Sub-Saharan Africa,3.739
+146,Yemen,Middle East and Northern Africa,3.7239999999999998
+147,Madagascar,Sub-Saharan Africa,3.695
+148,Tanzania,Sub-Saharan Africa,3.6660000000000004
+149,Liberia,Sub-Saharan Africa,3.622
+150,Guinea,Sub-Saharan Africa,3.6069999999999998
+151,Rwanda,Sub-Saharan Africa,3.515
+152,Benin,Sub-Saharan Africa,3.484
+153,Afghanistan,Southern Asia,3.36
+154,Togo,Sub-Saharan Africa,3.303
+155,Syria,Middle East and Northern Africa,3.069
+156,Burundi,Sub-Saharan Africa,2.905
