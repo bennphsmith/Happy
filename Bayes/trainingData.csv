@@ -2,10 +2,10 @@ Region,GDP per Capita,CO2 per Capita,Air Quality,Biodiversity,Water Sanitation,H
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
 Western Europe,High-Income,Medium,Good,Very Good,Very Good,Very Happy
 Western Europe,High-Income,High,Very Good,Good,Very Good,Very Happy
-Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
-Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Very Good,Very Good,Very Good,Very Happy
 North America,High-Income,High,Very Good,Good,Very Good,Very Happy
-Western Europe,High-Income,Medium,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Good,Very Good,Very Good,Very Happy
 Australia and New Zealand,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
 Australia and New Zealand,High-Income,High,Very Good,Very Good,Very Good,Very Happy
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
@@ -13,66 +13,66 @@ Middle East and Northern Africa,High-Income,Medium,Good,Good,Very Good,Very Happ
 Western Europe,High-Income,Medium,Good,Very Good,Very Good,Very Happy
 North America,High-Income,High,Very Good,Good,Very Good,Very Happy
 Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Very Good,Very Happy
-Western Europe,High-Income,Medium,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Good,Very Good,Very Good,Very Happy
 Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Very Good,Very Happy
-Western Europe,High-Income,Medium,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Good,Very Good,Very Good,Very Happy
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
 Western Europe,High-Income,High,Very Good,Very Good,Very Good,Very Happy
-Latin America and Caribbean,Upper-Middle-Income,Medium,Good,Good,Very Good,Very Happy
-Southeastern Asia,High-Income,Medium,Very Good,Good,Very Good,Very Happy
-Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
-Latin America and Caribbean,High-Income,Medium,Very Good,Good,Very Good,Very Happy
-Latin America and Caribbean,High-Income,Medium,Very Good,Very Good,Good,Very Happy
-Latin America and Caribbean,High-Income,Medium,Very Good,Good,Very Good,Very Happy
-Central and Eastern Europe,High-Income,Medium,Good,Very Good,Very Good,Happy
-Middle East and Northern Africa,High-Income,High,Good,Very Good,Very Good,Happy
+Latin America and Caribbean,Upper-Middle-Income,Medium,Good,Good,Very Good,Happy
+Southeastern Asia,High-Income,High,Very Good,Good,Very Good,Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
+Latin America and Caribbean,High-Income,Medium,Very Good,Good,Very Good,Happy
+Latin America and Caribbean,High-Income,Low,Very Good,Very Good,Good,Happy
+Latin America and Caribbean,High-Income,Medium,Very Good,Good,Very Good,Happy
+Central and Eastern Europe,High-Income,High,Good,Very Good,Very Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Good,Very Good,Very Good,Happy
 Latin America and Caribbean,High-Income,Low,Very Good,Average,Very Good,Happy
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
 Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Happy
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
 Southeastern Asia,Upper-Middle-Income,Medium,Average,Very Good,Very Good,Happy
-Middle East and Northern Africa,High-Income,High,Good,Very Good,Very Good,Happy
-Middle East and Northern Africa,High-Income,High,Average,Average,Very Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Good,Very Good,Very Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Average,Average,Very Good,Happy
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
 Middle East and Northern Africa,Lower-Middle-Income,Medium,Very Good,Good,Good,Happy
-Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Good,Good,Happy
+Latin America and Caribbean,Upper-Middle-Income,Very Low,Very Good,Good,Good,Happy
 Latin America and Caribbean,Upper-Middle-Income,Medium,Very Good,Very Good,Good,Happy
-Middle East and Northern Africa,High-Income,High,Average,Very Good,Very Good,Happy
-Middle East and Northern Africa,High-Income,High,Good,Average,Very Good,Happy
-Latin America and Caribbean,High-Income,High,Very Good,Very Good,Very Good,Happy
-Central and Eastern Europe,High-Income,Medium,Good,Very Good,Very Good,Happy
-Latin America and Caribbean,Lower-Middle-Income,Low,Very Good,Good,Good,Happy
-Southeastern Asia,Upper-Middle-Income,Medium,Good,Very Good,Very Good,Happy
-Latin America and Caribbean,Lower-Middle-Income,Low,Very Good,Very Good,Good,Happy
-Central and Eastern Europe,Lower-Middle-Income,Medium,Good,Average,Very Good,Happy
-Western Europe,High-Income,Medium,Good,Very Good,Very Good,Happy
-Latin America and Caribbean,Upper-Middle-Income,Medium,Very Good,Very Good,Good,Happy
-Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Happy
-Eastern Asia,High-Income,Medium,Good,Very Good,Very Good,Happy
-Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Average,Very Good,Happy
-Central and Eastern Europe,Lower-Middle-Income,Low,Good,Average,Good,Happy
-Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Good,Very Good,Happy
-Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Very Good,Very Good,Happy
-Eastern Asia,High-Income,High,Average,Good,Very Good,Happy
-Latin America and Caribbean,Lower-Middle-Income,Low,Very Good,Very Good,Good,Happy
-Central and Eastern Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
-Central and Eastern Europe,Upper-Middle-Income,Medium,Very Good,Good,Very Good,Happy
-Central and Eastern Europe,High-Income,Medium,Good,Very Good,Very Good,Happy
-Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Happy
-Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Average,Good,Average
-Sub-Saharan Africa,Upper-Middle-Income,Medium,Very Good,Average,Very Good,Average
-Middle East and Northern Africa,Upper-Middle-Income,Medium,Very Good,Poor,Good,Average
-Central and Eastern Europe,High-Income,Medium,Very Good,Very Good,Very Good,Average
-Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Good,Very Good,Average
+Middle East and Northern Africa,High-Income,Very High,Average,Very Good,Very Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Good,Average,Very Good,Happy
+Latin America and Caribbean,High-Income,Very High,Very Good,Very Good,Very Good,Content
+Central and Eastern Europe,High-Income,Medium,Good,Very Good,Very Good,Content
+Latin America and Caribbean,Lower-Middle-Income,Low,Very Good,Good,Good,Content
+Southeastern Asia,Upper-Middle-Income,Medium,Good,Very Good,Very Good,Content
+Latin America and Caribbean,Lower-Middle-Income,Very Low,Very Good,Very Good,Good,Content
+Central and Eastern Europe,Lower-Middle-Income,Low,Good,Average,Very Good,Content
+Western Europe,High-Income,Medium,Good,Very Good,Very Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Content
+Eastern Asia,High-Income,High,Good,Very Good,Very Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Average,Very Good,Content
+Central and Eastern Europe,Lower-Middle-Income,Low,Good,Average,Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Good,Very Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Good,Very Good,Very Good,Content
+Eastern Asia,High-Income,High,Average,Good,Very Good,Content
+Latin America and Caribbean,Lower-Middle-Income,Low,Very Good,Very Good,Good,Content
+Central and Eastern Europe,High-Income,Medium,Very Good,Very Good,Very Good,Content
+Central and Eastern Europe,Upper-Middle-Income,Medium,Very Good,Good,Very Good,Content
+Central and Eastern Europe,High-Income,Medium,Good,Very Good,Very Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Average,Good,Content
+Sub-Saharan Africa,Upper-Middle-Income,Low,Very Good,Average,Very Good,Content
+Middle East and Northern Africa,Upper-Middle-Income,High,Very Good,Poor,Good,Content
+Central and Eastern Europe,High-Income,Medium,Very Good,Very Good,Very Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Very Low,Very Good,Good,Very Good,Average
 Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Very Good,Very Good,Average
 Central and Eastern Europe,High-Income,High,Very Good,Very Good,Very Good,Average
-Latin America and Caribbean,Upper-Middle-Income,Medium,Very Good,Very Good,Good,Average
+Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Average
 Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Very Good,Very Good,Average
-Sub-Saharan Africa,Low-Income,Low,Good,Poor,Poor,Average
+Sub-Saharan Africa,Low-Income,Very Low,Good,Poor,Poor,Average
 Middle East and Northern Africa,Upper-Middle-Income,Medium,Good,Poor,Very Good,Average
 Southeastern Asia,Lower-Middle-Income,Low,Very Good,Very Good,Good,Average
-Middle East and Northern Africa,Upper-Middle-Income,Medium,Good,Average,Very Good,Average
-Central and Eastern Europe,Lower-Middle-Income,Medium,Very Good,Good,Good,Average
+Middle East and Northern Africa,Upper-Middle-Income,Low,Good,Average,Very Good,Average
+Central and Eastern Europe,Lower-Middle-Income,Low,Very Good,Good,Good,Average
 Southeastern Asia,Lower-Middle-Income,Low,Very Good,Very Good,Good,Average
 Eastern Asia,Upper-Middle-Income,Medium,Poor,Good,Very Good,Average
 Southern Asia,Lower-Middle-Income,Low,Average,Very Good,Good,Average
@@ -83,63 +83,206 @@ Central and Eastern Europe,Upper-Middle-Income,Medium,Very Good,Good,Very Good,A
 Latin America and Caribbean,Upper-Middle-Income,Low,Very Good,Very Good,Good,Average
 Middle East and Northern Africa,Lower-Middle-Income,Low,Very Good,Very Good,Good,Average
 Central and Eastern Europe,High-Income,Medium,Good,Very Good,Very Good,Average
-Southern Asia,Lower-Middle-Income,Low,Poor,Good,Good,Average
+Southern Asia,Lower-Middle-Income,Very Low,Poor,Good,Good,Average
 Middle East and Northern Africa,Upper-Middle-Income,Medium,Good,Average,Very Good,Average
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Average
-Southeastern Asia,Lower-Middle-Income,Medium,Average,Very Good,Very Good,Average
-Middle East and Northern Africa,Lower-Middle-Income,Medium,Very Good,Good,Very Good,Average
+Southeastern Asia,Lower-Middle-Income,Low,Average,Very Good,Very Good,Average
+Middle East and Northern Africa,Lower-Middle-Income,Low,Very Good,Good,Very Good,Average
 Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Average
-Central and Eastern Europe,Low-Income,Low,Good,Good,Good,Average
+Central and Eastern Europe,Low-Income,Very Low,Good,Good,Good,Average
 Eastern Asia,Lower-Middle-Income,Medium,Very Good,Very Good,Average,Average
-Southeastern Asia,Lower-Middle-Income,Low,Poor,Very Good,Good,Average
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Good,Average,Average
-Latin America and Caribbean,Lower-Middle-Income,Low,Very Good,Very Good,Good,Average
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Very Good,Average,Average
-Southern Asia,Low-Income,Low,Poor,Good,Good,Average
-Central and Eastern Europe,Upper-Middle-Income,Low,Very Good,Average,Very Good,Unhappy
-Southern Asia,Lower-Middle-Income,Low,Poor,Good,Average,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Good,Poor,Unhappy
-Middle East and Northern Africa,Upper-Middle-Income,Medium,Average,Poor,Good,Unhappy
-Sub-Saharan Africa,Upper-Middle-Income,Low,Very Good,Very Good,Good,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Good,Average,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Poor,Unhappy
-Sub-Saharan Africa,Upper-Middle-Income,Medium,Very Good,Good,Good,Unhappy
-Southern Asia,Lower-Middle-Income,Low,Good,Very Good,Very Good,Unhappy
-Southern Asia,Lower-Middle-Income,Low,Poor,Good,Good,Unhappy
-Southeastern Asia,Lower-Middle-Income,Low,Average,Average,Good,Unhappy
-Middle East and Northern Africa,Lower-Middle-Income,Medium,Average,Good,Very Good,Unhappy
-Central and Eastern Europe,Lower-Middle-Income,Low,Good,Very Good,Very Good,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Very Good,Average,Unhappy
-Central and Eastern Europe,Lower-Middle-Income,Medium,Very Good,Good,Very Good,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Very Good,Average,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Average,Good,Poor,Unhappy
-Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Good,Good,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Very Good,Very Good,Average,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Very Good,Average,Unhappy
+Southeastern Asia,Lower-Middle-Income,Very Low,Poor,Very Good,Good,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Good,Average,Discontent
+Latin America and Caribbean,Lower-Middle-Income,Very Low,Very Good,Very Good,Good,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Very Good,Average,Discontent
+Southern Asia,Low-Income,Very Low,Poor,Good,Good,Discontent
+Central and Eastern Europe,Upper-Middle-Income,Low,Very Good,Average,Very Good,Discontent
+Southern Asia,Lower-Middle-Income,Very Low,Poor,Good,Average,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Good,Good,Poor,Discontent
+Middle East and Northern Africa,Upper-Middle-Income,Medium,Average,Poor,Good,Discontent
+Sub-Saharan Africa,Upper-Middle-Income,Low,Very Good,Very Good,Good,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Good,Average,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Poor,Discontent
+Sub-Saharan Africa,Upper-Middle-Income,High,Very Good,Good,Good,Discontent
+Southern Asia,Lower-Middle-Income,Very Low,Good,Very Good,Very Good,Discontent
+Southern Asia,Lower-Middle-Income,Low,Poor,Good,Good,Discontent
+Southeastern Asia,Lower-Middle-Income,Very Low,Average,Average,Good,Discontent
+Middle East and Northern Africa,Lower-Middle-Income,Low,Average,Good,Very Good,Discontent
+Central and Eastern Europe,Lower-Middle-Income,Low,Good,Very Good,Very Good,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Very Good,Average,Discontent
+Central and Eastern Europe,Lower-Middle-Income,Medium,Very Good,Good,Very Good,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Very Good,Average,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Poor,Discontent
+Central and Eastern Europe,Upper-Middle-Income,Low,Good,Good,Good,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Low,Very Good,Very Good,Average,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Very Good,Average,Unhappy
 Central and Eastern Europe,Upper-Middle-Income,Medium,Very Good,Very Good,Very Good,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Average,Average,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Very Good,Very Good,Average,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Average,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Average,Poor,Unhappy
-Sub-Saharan Africa,Upper-Middle-Income,Medium,Very Good,Very Good,Good,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Good,Poor,Unhappy
-Latin America and Caribbean,Low-Income,Low,Good,Poor,Poor,Unhappy
-Sub-Saharan Africa,Upper-Middle-Income,Medium,Very Good,Very Good,Good,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Very Good,Good,Average,Unhappy
-Sub-Saharan Africa,Lower-Middle-Income,Low,Good,Very Good,Average,Unhappy
-Southeastern Asia,Lower-Middle-Income,Low,Good,Very Good,Good,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Average,Average,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Very Good,Very Good,Average,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Average,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Average,Poor,Unhappy
+Sub-Saharan Africa,Upper-Middle-Income,Low,Very Good,Very Good,Good,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Good,Poor,Unhappy
+Latin America and Caribbean,Low-Income,Very Low,Good,Poor,Poor,Unhappy
+Sub-Saharan Africa,Upper-Middle-Income,Low,Very Good,Very Good,Good,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Very Good,Good,Average,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Very Good,Average,Unhappy
+Southeastern Asia,Lower-Middle-Income,Very Low,Good,Very Good,Good,Unhappy
 Sub-Saharan Africa,Lower-Middle-Income,Low,Very Good,Average,Poor,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Very Poor,Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Very Poor,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Poor,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Average,Very Unhappy
-Middle East and Northern Africa,Lower-Middle-Income,Low,Good,Average,Average,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Good,Poor,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Poor,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Average,Average,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Very Good,Average,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Average,Good,Average,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Good,Average,Very Unhappy
-Southern Asia,Low-Income,Low,Good,Poor,Poor,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Good,Good,Poor,Very Unhappy
-Sub-Saharan Africa,Low-Income,Low,Average,Good,Average,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Average,Unhappy
+Middle East and Northern Africa,Lower-Middle-Income,Very Low,Good,Average,Average,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Good,Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Average,Average,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Very Good,Average,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Average,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Good,Average,Very Unhappy
+Southern Asia,Low-Income,Very Low,Good,Poor,Poor,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Good,Good,Poor,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Average,Very Unhappy
+Western Europe,High-Income,High,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Good,Good,Very Good,Very Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Very Good,Very Good,Very Good,Very Happy
+North America,High-Income,High,Good,Very Good,Very Good,Very Happy
+Australia and New Zealand,High-Income,Medium,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,Medium,Good,Very Good,Very Good,Very Happy
+Australia and New Zealand,High-Income,High,Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Very Good,Very Good,Very Good,Very Happy
+Latin America and Caribbean,Upper-Middle-Income,Low,Good,Very Good,Good,Very Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Very Good,Very Good,Very Good,Very Happy
+Western Europe,High-Income,High,Very Good,Very Good,Very Good,Happy
+Western Europe,High-Income,High,Good,Very Good,Very Good,Happy
+North America,High-Income,High,Good,Good,Very Good,Happy
+Middle East and Northern Africa,High-Income,Medium,Very Good,Average,Very Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Good,Good,Good,Happy
+Central and Eastern Europe,High-Income,High,Good,Very Good,Good,Happy
+Western Europe,High-Income,Medium,Good,Very Good,Very Good,Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
+Latin America and Caribbean,Upper-Middle-Income,Medium,Good,Good,Average,Happy
+Latin America and Caribbean,High-Income,Medium,Poor,Good,Good,Happy
+Latin America and Caribbean,High-Income,Low,Good,Very Good,Average,Happy
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Very Good,Average,Happy
+Latin America and Caribbean,Upper-Middle-Income,Medium,Average,Average,Good,Happy
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Good,Poor,Happy
+Latin America and Caribbean,High-Income,Low,Average,Average,Very Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Very Good,Average,Good,Happy
+Middle East and Northern Africa,High-Income,Very High,Average,Average,Good,Happy
+Southeastern Asia,High-Income,High,Good,Poor,Very Good,Happy
+Southeastern Asia,Upper-Middle-Income,Medium,Average,Good,Good,Happy
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Happy
+Latin America and Caribbean,Upper-Middle-Income,Low,Good,Very Good,Average,Content
+Latin America and Caribbean,High-Income,Very High,Good,Very Good,Average,Content
+Central and Eastern Europe,High-Income,Medium,Good,Very Good,Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Good,Average,Content
+Latin America and Caribbean,Lower-Middle-Income,Very Low,Average,Very Good,Average,Content
+Central and Eastern Europe,High-Income,High,Good,Very Good,Good,Content
+Middle East and Northern Africa,High-Income,Very High,Good,Poor,Good,Content
+Central and Eastern Europe,Lower-Middle-Income,Low,Average,Poor,Good,Content
+Middle East and Northern Africa,High-Income,Very High,Average,Very Good,Good,Content
+Southeastern Asia,Upper-Middle-Income,Medium,Average,Good,Average,Content
+Western Europe,High-Income,Medium,Very Good,Very Good,Very Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Very Good,Average,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Very Good,Average,Content
+Central and Eastern Europe,High-Income,Medium,Good,Very Good,Average,Content
+Central and Eastern Europe,High-Income,Medium,Good,Very Good,Good,Content
+Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Very Good,Average,Content
+Central and Eastern Europe,High-Income,Medium,Very Good,Very Good,Good,Content
+Eastern Asia,High-Income,High,Very Good,Very Good,Very Good,Content
+Sub-Saharan Africa,Upper-Middle-Income,Medium,Average,Poor,Good,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Very Good,Average,Content
+Eastern Asia,High-Income,High,Good,Average,Very Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Good,Good,Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Average,Poor,Good,Content
+Latin America and Caribbean,Lower-Middle-Income,Low,Average,Very Good,Average,Content
+Central and Eastern Europe,High-Income,Very High,Good,Very Good,Average,Content
+Latin America and Caribbean,Upper-Middle-Income,Very Low,Average,Good,Average,Content
+Latin America and Caribbean,Upper-Middle-Income,Low,Average,Very Good,Average,Content
+Central and Eastern Europe,Lower-Middle-Income,Low,Average,Poor,Good,Content
+Central and Eastern Europe,Upper-Middle-Income,High,Very Good,Poor,Average,Content
+Central and Eastern Europe,High-Income,Medium,Good,Very Good,Good,Content
+Middle East and Northern Africa,Upper-Middle-Income,High,Good,Poor,Average,Average
+Southeastern Asia,Lower-Middle-Income,Low,Good,Good,Average,Average
+Latin America and Caribbean,Lower-Middle-Income,Very Low,Average,Very Good,Poor,Average
+Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Good,Good,Average
+Middle East and Northern Africa,Upper-Middle-Income,Medium,Good,Poor,Average,Average
+Southern Asia,Lower-Middle-Income,Very Low,Poor,Good,Poor,Average
+Western Europe,High-Income,Medium,Good,Very Good,Very Good,Average
+Central and Eastern Europe,Upper-Middle-Income,Medium,Average,Average,Good,Average
+Western Europe,High-Income,Medium,Good,Very Good,Very Good,Average
+Middle East and Northern Africa,Upper-Middle-Income,Medium,Good,Poor,Good,Average
+Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Good,Good,Average
+Central and Eastern Europe,High-Income,Medium,Average,Very Good,Good,Average
+Latin America and Caribbean,Upper-Middle-Income,Low,Good,Very Good,Average,Average
+Middle East and Northern Africa,Upper-Middle-Income,Medium,Good,Average,Good,Average
+Middle East and Northern Africa,Lower-Middle-Income,Low,Good,Very Good,Average,Average
+Eastern Asia,Upper-Middle-Income,Medium,Poor,Good,Good,Average
+Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Good,Average,Average
+Central and Eastern Europe,Low-Income,Very Low,Poor,Good,Poor,Average
+Middle East and Northern Africa,Upper-Middle-Income,Low,Very Good,Poor,Good,Average
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Good,Good,Very Poor,Average
+Central and Eastern Europe,Lower-Middle-Income,Low,Average,Good,Average,Average
+Central and Eastern Europe,Upper-Middle-Income,Medium,Average,Poor,Good,Average
+Eastern Asia,Upper-Middle-Income,Medium,Average,Good,Good,Average
+Southeastern Asia,Lower-Middle-Income,Low,Poor,Good,Average,Average
+Southeastern Asia,Lower-Middle-Income,Low,Average,Good,Poor,Average
+Southern Asia,Lower-Middle-Income,Low,Average,Very Good,Poor,Average
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Average,Very Poor,Average
+Central and Eastern Europe,Upper-Middle-Income,Medium,Good,Very Good,Good,Average
+Southern Asia,Lower-Middle-Income,Very Low,Poor,Good,Poor,Discontent
+Sub-Saharan Africa,Upper-Middle-Income,Low,Average,Very Good,Poor,Discontent
+Sub-Saharan Africa,Upper-Middle-Income,High,Poor,Good,Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Very Good,Very Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Good,Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Very Good,Very Poor,Discontent
+Southeastern Asia,Lower-Middle-Income,Very Low,Poor,Good,Poor,Discontent
+Middle East and Northern Africa,Lower-Middle-Income,Low,Good,Average,Average,Discontent
+Central and Eastern Europe,Upper-Middle-Income,Low,Good,Good,Good,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Very Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Low,Poor,Very Good,Very Poor,Discontent
+Southern Asia,Lower-Middle-Income,Very Low,Poor,Average,Poor,Discontent
+Southern Asia,Upper-Middle-Income,Low,Good,Very Good,Average,Discontent
+Middle East and Northern Africa,Upper-Middle-Income,Medium,Average,Poor,Average,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Very Poor,Discontent
+Sub-Saharan Africa,Upper-Middle-Income,Low,Average,Very Good,Very Poor,Discontent
+Southeastern Asia,Lower-Middle-Income,Very Low,Poor,Very Good,Poor,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Discontent
+Middle East and Northern Africa,Lower-Middle-Income,Low,Good,Good,Poor,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Good,Very Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Very Good,Very Poor,Discontent
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Poor,Very Poor,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Very Poor,Discontent
+Central and Eastern Europe,Upper-Middle-Income,Low,Average,Good,Average,Discontent
+Central and Eastern Europe,Upper-Middle-Income,Low,Good,Good,Good,Discontent
+Southeastern Asia,Lower-Middle-Income,Very Low,Average,Average,Poor,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Good,Good,Very Poor,Discontent
+Sub-Saharan Africa,Low-Income,Very Low,Poor,Good,Very Poor,Unhappy
+Southern Asia,Lower-Middle-Income,Low,Poor,Average,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Poor,Good,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Average,Poor,Unhappy
+Central and Eastern Europe,Lower-Middle-Income,Medium,Average,Average,Good,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Very Poor,Very Poor,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Poor,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Average,Very Poor,Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Poor,Very Good,Very Poor,Unhappy
+Southern Asia,Low-Income,Very Low,Good,Very Poor,Poor,Unhappy
+Sub-Saharan Africa,Upper-Middle-Income,Low,Average,Very Good,Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Unhappy
+Latin America and Caribbean,Low-Income,Very Low,Average,Very Poor,Very Poor,Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Poor,Poor,Very Poor,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Good,Very Poor,Very Unhappy
+Sub-Saharan Africa,Lower-Middle-Income,Very Low,Average,Very Good,Very Poor,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Average,Very Good,Very Poor,Very Unhappy
+Sub-Saharan Africa,Low-Income,Very Low,Poor,Average,Very Poor,Very Unhappy
